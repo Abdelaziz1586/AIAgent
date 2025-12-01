@@ -1,0 +1,9 @@
+name: AIAgent
+version: '1.0.0'
+main: me.abdelaziz.aIAgent.AIAgent
+api-version: '1.21'
+authors: [ Abdelaziz ]
+description: Test project
+commands:
+  create:
+    description: "Creates a structure using Gemini!"
